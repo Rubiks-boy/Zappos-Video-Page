@@ -8,4 +8,4 @@ This can be viewed at: http://rubiks.olympus.zappos.a2z.com/
 #### Technologies Used: ####
 * MySql Database
 * Spring Boot back end
-* HTML/SASS/Javascript front end
+* HTML/Sass/Javascript front end
